@@ -11,6 +11,6 @@ Vetores:
 ---------------------------------------------------------
 
   Matriz:
-- [Exercício05.cs](Exercicios 01 da lista)
-- [Exercício06.cs](Exercicios 02 da lista)
-- [Exercício07.cs](Exercicios 03 da lista)
+- [Exercício05.cs](Exercicio 01 da lista)
+- [Exercício06.cs](Exercicio 02 da lista)
+- [Exercício07.cs](Exercicio 03 da lista)
